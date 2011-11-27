@@ -330,6 +330,6 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   <project path="vendor/openfimg" name="tom3q/openfimg" remote="github" revision="fbo" />
 
-  <project path="android" name="tom3q/android" remote="github" />
+  <project path="android" name="tom3q/android" remote="github" revision="devel" />
 
 </manifest>
