@@ -58,7 +58,7 @@
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
   <project path="external/clearsilver" name="CyanogenMod/android_external_clearsilver" />
   <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="master" />
-  <project path="external/dash" name="sonyxperiadev/DASH" revision="master" />
+  <project path="external/dash" name="tom3q/DASH" revision="master" />
   <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
